@@ -1,0 +1,41 @@
+
+.tableInsert {
+  width:  100%;
+}
+
+#btnAdd{
+  color: black;
+}
+
+table {
+  border: 2px solid white;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th,
+tr,
+td {
+  border: solid 1px white;
+  color: white;
+  text-align: center;
+}
+
+#cabecalho {
+  text-align: center;
+}
+
+
+h1{
+  color: white;
+}
+
+/*SortButton CSS*/
+#btnSortear{
+  margin: 20 !important;
+}
+
+button{
+  margin: 20;
+}
+

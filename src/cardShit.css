@@ -1,0 +1,81 @@
+.cartas{
+  width: inherit; 
+  height: inherit; 
+  position: absolute;
+}
+
+#cardShit{
+  text-align: center;
+}
+
+h2{
+  color: white;
+  margin: 10px;
+}
+
+
+  .carta-subtitle {
+    z-index: 2;
+    position: absolute;
+    top: 16px;
+    left: 37px;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #602b76;
+    margin-bottom: 14px;
+    margin-top: 14px;
+  }
+
+
+#atributoIcon{
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 3px;
+  }
+  
+  #cardAtributoName{
+  float: left; 
+  margin-top: -4px; 
+  margin-bottom: 0px;
+  }
+  
+  #cardAtributoValue{
+  float: right; 
+  margin-top: -4px; 
+  margin-bottom: 0px;
+  margin-right: 17px;
+  }
+  
+  .atributosDiv{
+  height: 30px; 
+  background-color: black; 
+  margin: 10px 0px 10px 0px; 
+  width: 100%; 
+  border-radius: 16px; 
+  background-color: #88778f;
+  color: #402936;
+  font-size: 22px;
+  }
+  
+  .atributosDiv:hover {
+    background-color: #caa0e8;
+    color: #583f6b;
+  }
+
+.typeBtn{
+  margin-left: 20px;
+}
+
+#deckTotal{
+  margin: 0px;
+}
+
+#deckTotal p{
+  float: right;
+  font-weight: bolder;
+  font-size: 20px;
+  margin: 0px;
+  margin-right: 13px;
+  color: #602b76;
+}
